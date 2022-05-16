@@ -2452,6 +2452,10 @@ input, select, textarea {
 		textarea:invalid {
 			box-shadow: none;
 		}
+	
+	textarea{
+		resize: none;
+	}
 
 	select {
 		background-size: 1.25rem;
